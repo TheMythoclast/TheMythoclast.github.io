@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm not that bad I swear
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Braden MacBeth. I'm a computer science major at Slippery Rock University, and I'm planning to apply to medical school this year. A year and a half, and 81 credits ago I worked as a programmer for a plastics company designing SCADA interfaces and stuff. After working as a programmer for 2 years, I decided that programming as a career wasn't for me. I wanted a career where I could work directly with people to help solve their problems. I always enjoyed studying biology, particularly as it relates to medical topics but I was never the best student and didn't see medical school as a viable option. After a few life changes and growing up a bit, I decided the best thing was for me was to go back to school and finish my 4-year degree in Computer Science and apply to medical school. I've never had the best grades, and still don't but I've been doing better than I have ever done in my life with my schoolwork. I still try to keep up to date with my programming skills, and will happily put my skills to work for a good cause; I just can't do programming as a career. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+You're probably wondering how this whole blogging thing started. It all started with an assignment in medical ethics class where we were supposed to find a news article about a medical ethics problem, and I found Britt Herme's article about being sued by a naturopath after  she called out their sketchy "research" practices. I later learned that the promotional video that Colleen Huber used was actually from a film called "Cancer Can Be Killed", which nobody had done a real deep dive on. I wanted to start my own YouTube channel to talk about medical fraud and quackery like what "Cancer Can Be Killed" promotes. Unfortunately, making quality videos is insanely hard and requires more time than a person working part time and going to school full-time could manage. After giving up on trying to do videos on the weekends after a few months, I decided writing articles or blogs was the way to go. Eventually, I finished my 10 page review of Cancer Can Be Killed, and sent it to ScienceBasedMedicine.org as a potential guest submission. After about a month on the first week of school, I got an email saying they were going to publish it, Marvel memes and all that Friday. 
 
-What else do you need?
+I've done a few more guest posts for SBM since then and plan to do so as my study schedule permits, and Dr. Gorski doesn't get annoyed with me. But I wanted to start my own blog to talk about smaller stories, and my other interests. 
 
-### my history
+/* To Do: Write More Stuff */
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**A Foreword To Employers/Readers/Admissions Committees**
+
+Nothing on my website should be taken as medical advice, I am not a doctor. I work very hard to get the facts right, and I like to think I do a pretty good job. If you are having a medical problem, you should see a doctor. 
+
+Please understand that this is my personal blog with my personal thoughts. Nothing on this blog reflects how I interact with patients, customers, or coworkers. Furthermore, my thoughts are my own and do not reflect the beliefs of my employers. I write about topics I want to write about in a way that is fun for me, and I hope my readers will enjoy it too. I may use strong language or occasionally insult nonsense peddlers. I never have, and never will intentionally insult or embarrass people who seek out or use alternative medicine. Furthermore, I will never endorse racist, sexist, homophobic, or transphobic views on my blog. I am more than happy to apologize and make corrections if I get something wrong or unintentionally offend someone. I believe in giving everyone their fair shake and the benefit of the doubt, and I'm asking you to treat me the same way.  
