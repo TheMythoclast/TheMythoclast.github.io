@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Mythoclast
+title:
 
 # Short description of your site
 description: A blog about pseudoscientific nonsense, video games, and the struggles of a computer science majoring premed. 
