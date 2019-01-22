@@ -2,7 +2,7 @@
 layout: post
 title: Cancer Can Be Killed Review
 subtitle: Jeff Witlessman's 90 minute infomercial for quacks. 
-image: /img/ccbc/Capture.png
+image: /img/ccbc/Capture.PNG
 tags: [Jeff Witzeman, cancer. vitamin-c, chelation, Carlos Garcia, Colleen Huber, Cancer Can Be Killed, laetrile, Vitamin B17, sugar, Phillip Battiade, Infusio, Utopia Wellness, nature works best, Science Based Medicine X-Post]
 comments: true
 ---
