@@ -5,6 +5,7 @@ subtitle: Jeff Witlessman's 90 minute infomercial for quacks.
 tags: [Jeff Witzeman] [cancer] [vitamin-c] [chelation] [Carlos Garcia] [Colleen Huber] [Cancer Can Be Killed] [laetrile] [Vitamin B17] [sugar] [Phillip Battiade] [Infusio] [Utopia Wellness] [nature works best] [Science Based Medicine X-Post]
 comments: true
 ---
+
 I found myself in the weird part of Amazon a few months ago. As it turns out Amazon is a big fan of sketchy health documentaries. You can view dozens of documentaries free of charge with Amazon Prime that support anti-vaccine views, peddle unproven cancer therapies, and all other sorts of nonsense. Which brings me to a documentary called [*Cancer Can Be Killed*](https://www.amazon.com/Cancer-Can-Killed-Carlos-Garcia/dp/B0748MZ5C5/ref=sr_1_1?s=instant-video&ie=UTF8&qid=1529923525&sr=1-1&keywords=Cancer+Can+Be+Killed). Cancer Can Be Killed was produced by Jeff Witzeman and released in the summer of 2017. Witzeman claims that his wife’s bladder cancer was cured using these all-natural treatments provided by a clinic in Germany. In its opening scene Witzeman tries to pull the audience in with:
 
 > "What if I told you that cancer can be killed naturally with no chemo, no radiation and no radical surgery in the form of organ removal? You’d probably say, yeah, that’s not real. So, I guess I’m gonna have to prove it you."
