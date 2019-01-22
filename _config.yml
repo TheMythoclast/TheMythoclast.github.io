@@ -21,7 +21,7 @@ description: A blog about pseudoscientific nonsense, video games, and the strugg
 
 # --- Navigation bar options --- #
 
-# List of links in the navigation bar
+# List of links in the nvigation bar
 navbar-links:
   About Me: "aboutme"
   Resources:
