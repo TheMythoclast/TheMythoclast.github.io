@@ -21,7 +21,7 @@ Okay… you know what other beverage would help you get enough water? Regular wa
 Contrary to what some people may believe, not everything has to be a weight loss endeavor. While I would agree that replacing something like orange juice with water would certainly a good way to cut calories, a lot of people don’t need to do that. Some people already maintain a healthy body weight and some people even have trouble maintaining their body weight. Fruit juices have a lot of nutrients and it would be better to encourage people to cut out lattes and soft drinks. You’re allowed to enjoy breakfast, if you like orange juice with your breakfast there are worse vices. 
 > Prevents Oxidation – Lemons contain phytonutrients, or substances that protect your body against disease. These phytonutrients have powerful antioxidant properties, which prevent us from oxidizing or essentially rusting from the inside out. 
 
-![WAT](img/lemon/wat.jpg)
+![WAT](../img/lemon/wat.jpg)
 
  There is a lot wrong with this statement. First of all, phytonutrients aren’t exactly a scientific term from what I can gather. They are likely referring to [phytochemicals](https://en.wikipedia.org/wiki/Phytochemical
 ), which are chemical products in plants that help plants prevent disease. There doesn’t seem to be any evidence that they have any real health benefits, if we even knew what “phytonutrients” they’re referring to. Furthermore, there phytochemicals have not been established scientifically as essential nutrients.
