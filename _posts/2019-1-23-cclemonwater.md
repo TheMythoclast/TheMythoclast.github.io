@@ -6,7 +6,7 @@ tags: [Cleveland Clinic, lemon water, rusting]
 comments: true
 ---
 
-The Cleveland Clinic has a Health Essentials blog that their twitter account posts their blogs on an hourly basis. Many of these blogs contain questionable or outright false information. There's one that is particularly jarring that I want to look at today. I'm talking about their post titled “7 Reasons To Start Your Day With Lemon Water”. Let’s look at some of their reasons. 
+The Cleveland Clinic has a Health Essentials blog that their twitter account posts their blogs on an hourly basis. Many of these blogs contain questionable or outright false information. There's one that is particularly jarring that I want to look at today. I'm talking about their post titled [“7 Reasons To Start Your Day With Lemon Water”](https://health.clevelandclinic.org/7-reasons-to-start-your-day-with-lemon-water-infographic/). Let’s look at some of their reasons. 
 
 > Aids Digestion – Acid helps break down food. That’s why our stomach makes so much of it. The acid in lemons may be especially helpful to supplement stomach acids, which decline as we get older.
 
