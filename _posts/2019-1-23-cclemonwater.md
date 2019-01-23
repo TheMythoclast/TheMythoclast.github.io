@@ -1,7 +1,7 @@
 ---
 title: Cleveland Clinic's Lemon Water Nonsense Makes Me Sour
 subtitle: Rusting from the inside out isn't a thing CC
-image: img/lemon/lemon.jpg
+image: /img/lemon/lemon.jpg
 tags: [Cleveland Clinic, lemon water, rusting] 
 comments: true
 ---
