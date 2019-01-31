@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Chiropractors Are Not Doctors: You Should Worry About Measles
+title: Chiropractors Are Not Doctors and You Should Worry About Measles
 subtitle: Make measles dead again.   
 image: /img/measles/facepalm.jpg
 tags: [Measles, Stephen Baker, Vaccines, End My Suffering] 
