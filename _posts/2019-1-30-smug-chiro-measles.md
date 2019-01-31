@@ -21,7 +21,7 @@ However apparently every doctor is in the pocket of big pharma and this is all a
 
 > ...and when you're getting scared and you're freaked out by the news. You've gotta understand that this is an awesome marketing campaign. Super awesome marketing campaign. What you'll see is that whenever there is an "outbreak" or somebody gets a disease and they make a big deal about it on the news. It's probably because that particular vaccine has gone down a little bit. Not as many people are using the MMR shot maybe. Oh my it's time for a measles outbreak, we've gotta scare everybody so they can got back to getting their shots. 
 
-![](img/lemon/wat.jpg)
+![](/img/lemon/wat.jpg)
 
 Are you serious right now? What the fuck? Measles can be deadly, it is highly fucking contagious, and it's completely preventable. Of course people should be freaking out and getting their children vaccinated. That's why the news is making a big deal out of these outbreaks. They're a big deal. In 2004, there was one measles case in the US, last year there was 349 cases of measles, almost triple the amount tripling the number of cases in 2017. But lets talk about this big-vaccine conspiracy angle. Vaccines, especially the measles vaccine, isn't a money maker. Here's the problem, people who receive two doses of the MMR vaccine as children according to the U.S vaccination schedule are considered to be protected for life. 
 
