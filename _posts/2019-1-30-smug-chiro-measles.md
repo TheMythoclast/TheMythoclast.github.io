@@ -21,7 +21,7 @@ However apparently every doctor is in the pocket of big pharma and this is all a
 
 > ...and when you're getting scared and you're freaked out by the news. You've gotta understand that this is an awesome marketing campaign. Super awesome marketing campaign. What you'll see is that whenever there is an "outbreak" or somebody gets a disease and they make a big deal about it on the news. It's probably because that particular vaccine has gone down a little bit. Not as many people are using the MMR shot maybe. Oh my it's time for a measles outbreak, we've gotta scare everybody so they can got back to getting their shots. 
 
-![img/lemonwater/wat.png]
+![img/lemon/wat.jpg]
 
 Are you serious right now? What the fuck? Measles can be deadly, it is highly fucking contagious, and it's completely preventable. Of course people should be freaking out and getting their children vaccinated. That's why the news is making a big deal out of these outbreaks. They're a big deal. In 2004, there was one measles case in the US, last year there was 349 cases of measles, almost triple the amount tripling the number of cases in 2017. But lets talk about this big-vaccine conspiracy angle. Vaccines, especially the measles vaccine, isn't a money maker. Here's the problem, people who receive two doses of the MMR vaccine as children according to the U.S vaccination schedule are considered to be protected for life. Now, vaccines sell for a very low amount of money. According to Bourree Lam's article in the *The Atlantic*: "The current CDC pediatric-contract price for MMR is $19.91, while the private-sector pediatric price for MMR has risen to $59.91.". For those of you who don't work in healthcare or have never looked at your insurance payouts, that is NOTHING when it comes to pharmaceutical prices. Your doctor's office would bill you more than 19.91 if the physician assistant came into the room, sneezed on you, and asked you politely, yet firmly, to leave. Pediatricians don't make money from vaccines either, some even take a loss by administering vaccines, and [pediatricians on average receive the lowest amount of money from drug companies](http://www.philly.com/philly/blogs/healthy_kids/The-truth-Why-pediatricians-promote-vaccines.html). They really just want to prevent your kid from getting potentially deadly and completely preventable diseases, and maybe someday pay off their med school debt and lease that honda civic they always wanted. Who am I kidding? A pediatrician could never afford to lease a new car! /s
 
@@ -36,13 +36,15 @@ I'm not great at math however my computer tells me that .1 is still higher than 
 
 Seriously? Once again, .15% is still a chance your child could die a completely preventable death. For reference 20,360 children died in 2016. If measles was as endemic as it was in 1963 and resulted in death at the same rate, measles would account for the deaths of nearly 7,000 children. Measles would be the leading cause of death of children in the U.S, [exceeding deaths from motor vehicle crashes by nearly 2,000](https://www.advisory.com/daily-briefing/2018/12/21/child-death). But don't worry it's just a rash and a fever. 
 
+
 **Victim Blaming** 
 
 > Let's talk about who dies from measles. It's not a healthy child. It's not a healthy adult. It's probably somebody who went to a hospital, a disgusting place full of disease. That spreads more disease than ever. Remember the #3 leading cause of death is you ending up in a hospital. Don't do that. So the people that die of measles are not healthy people. Let's be real clear on that. My definition of health is someone who heals and functions at a high level. Not someone who just doesn't have symptoms. These people who are dying of measles, they're going to the hospital, they already have some other infection, they're probably full of drugs, they've probably been given antibiotics, they probably have zero immune system thanks to their pediatrician, and they're probably sick with some other issue. They get measles, they go to the hospital, mistakes happen, and they die. 
 
-Alright asshole. Let me tell you about the children that die from measles. [The children that die from measles live in developing countries that have low per-capita incomes and weak healthcare infrastructures[(https://www.who.int/news-room/fact-sheets/detail/measles). They aren't full of drugs, they probably don't even have full bellies. They probably probably don't have antibiotics, nor a pediatrician. I would certainly hope they don't have 'zero immune system', given the reputation of drinking water in developing countries. Malnourished children are much more likely to die from measles or suffer severe complications such as blindness. Fortunately, because of a strong vaccination initiative by the world health organizations the number of measles deaths dropped below 100,000 in a single year for the first time in 2016. Leave it to a guy named Stephen Baker to say the whitest shit I've ever heard. 
+Alright asshole. Let me tell you about the children that die from measles. [The children that die from measles live in developing countries that have low per-capita incomes and weak healthcare infrastructures](https://www.who.int/news-room/fact-sheets/detail/measles). They aren't full of drugs, they probably don't even have full bellies. They probably probably don't have antibiotics, nor a pediatrician. I would certainly hope they don't have 'zero immune system', given the reputation of drinking water in developing countries. Malnourished children are much more likely to die from measles or suffer severe complications such as blindness. Fortunately, because of a strong vaccination initiative by the world health organizations the number of measles deaths dropped below 100,000 in a single year for the first time in 2016. Leave it to a guy named Stephen Baker to say the whitest shit I've ever heard. 
 
 But let's talk about who could die from measles if it was endemic in the US as Stephen Baker wants it to be. Infants and people who are immunocompromised such as those with HIV or are undergoing chemotherapy would be incredibly likely to catch measles and die as a result. They would die from measles for absolutely no reason, the measles vaccine is safe and effective at preventing it.
+
 
 **Stupidity and Selfishness, a Deadly Combination**
 
@@ -53,6 +55,7 @@ Did you know it's possible to be concerned about the health of other people? Yea
 > When your child gets measles, they're better off. There are studies that show people who get measles are less likely to die from heart disease or cancer. 
 
 This claim is utter nonsense. The study he's referencing is utter nonsense and [Skeptical Raptor completely tore it apart](https://www.skepticalraptor.com/skepticalraptorblog.php/measles-infections-prevent-heart-disease-anti-vaccine-trope/#Notes). There is no reason to believe that catching measles would protect you from heart disease or cancer, the studies findings are by chance. Children who get measles are actually worse off as measles can cause [subacute sclerosing panencephalitis (SSPE)](https://www.encephalitis.info/measles-infection-and-encephalitis). SSPE occurs years after the original measles infection and results in untreatable brain degeneration and death. 
+
 
 
 **Vaccines Work**
@@ -68,6 +71,7 @@ Not-Doctor Baker seems to be getting his information from NVIC, a well known ant
 Also, must it be remarked that accusing the CDC as an organization of having a profit motive is pants-on-head level of stupid? Their boss *literally prints money*. 
 
 
+
 **Vaccines Don't Cause Autism, Please Stop**
 
 Baker believes that the MMR vaccine causes encephalitis which he believes causes autism. A study in *Pediatrics* looking at the outcomes of over 500,000 children who received the MMR vaccine found that there [was no association between the MMR vaccine encephalitis, aseptic meningitis, or autism](https://www.ncbi.nlm.nih.gov/pubmed/12415036). But that won't stop him from claiming that vaccines cause encephalitis, and encephalitis causes autism. 
@@ -75,6 +79,8 @@ Baker believes that the MMR vaccine causes encephalitis which he believes causes
 > Every single autistic child has swelling in the brain, big time. Oh did I say the MMR vaccine causes autism? I don't know, I wouldn't want to go out on a limb there. 
 
 The MMR vaccine does not cause autism. Period. So what does he suggest you do? 
+
+
 
 **Conclusion: Delete Your Account For The Kids**
 
