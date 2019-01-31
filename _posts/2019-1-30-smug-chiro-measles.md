@@ -21,7 +21,7 @@ However apparently every doctor is in the pocket of big pharma and this is all a
 
 > ...and when you're getting scared and you're freaked out by the news. You've gotta understand that this is an awesome marketing campaign. Super awesome marketing campaign. What you'll see is that whenever there is an "outbreak" or somebody gets a disease and they make a big deal about it on the news. It's probably because that particular vaccine has gone down a little bit. Not as many people are using the MMR shot maybe. Oh my it's time for a measles outbreak, we've gotta scare everybody so they can got back to getting their shots. 
 
-![](/img/lemon/wat.jpg)
+![alt text](/img/lemon/wat.jpg)
 
 Are you serious right now? What the fuck? Measles can be deadly, it is highly fucking contagious, and it's completely preventable. Of course people should be freaking out and getting their children vaccinated. That's why the news is making a big deal out of these outbreaks. They're a big deal. In 2004, there was one measles case in the US, last year there was 349 cases of measles, almost triple the amount tripling the number of cases in 2017. But lets talk about this big-vaccine conspiracy angle. Vaccines, especially the measles vaccine, isn't a money maker. Here's the problem, people who receive two doses of the MMR vaccine as children according to the U.S vaccination schedule are considered to be protected for life. 
 
@@ -40,7 +40,7 @@ I'm not great at math however my computer tells me that .1 is still higher than 
 Seriously? Once again, .15% is still a chance your child could die a completely preventable death. For reference 20,360 children died in 2016. If measles was as endemic as it was in 1963 and resulted in death at the same rate, measles would account for the deaths of nearly 7,000 children. Measles would be the leading cause of death of children in the U.S, [exceeding deaths from motor vehicle crashes by nearly 2,000](https://www.advisory.com/daily-briefing/2018/12/21/child-death). But don't worry it's just a rash and a fever. 
 
 
-##Victim Blaming 
+## Victim Blaming 
 
 > Let's talk about who dies from measles. It's not a healthy child. It's not a healthy adult. It's probably somebody who went to a hospital, a disgusting place full of disease. That spreads more disease than ever. Remember the #3 leading cause of death is you ending up in a hospital. Don't do that. So the people that die of measles are not healthy people. Let's be real clear on that. My definition of health is someone who heals and functions at a high level. Not someone who just doesn't have symptoms. These people who are dying of measles, they're going to the hospital, they already have some other infection, they're probably full of drugs, they've probably been given antibiotics, they probably have zero immune system thanks to their pediatrician, and they're probably sick with some other issue. They get measles, they go to the hospital, mistakes happen, and they die. 
 
@@ -61,7 +61,7 @@ This claim is utter nonsense. The study he's referencing is utter nonsense and [
 
 
 
-##Vaccines Work
+## Vaccines Work
 
 > Here's ultimately what they're trying to do. They're trying to get you to go get vaccinated. 
 
@@ -85,7 +85,7 @@ The MMR vaccine does not cause autism. Period. So what does he suggest you do?
 
 
 
-##Conclusion: Delete Your Account For The Kids
+## Conclusion: Delete Your Account For The Kids
 
 Stephen Baker is by far the most smug chiropractor I have ever come across. He has no idea what the fuck he's talking about and his health advice is as dubious and dangerous as it comes. What does he think we should do in regards to measles and vaccinating our children?
 
