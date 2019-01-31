@@ -7,7 +7,7 @@ tags: [Measles, Stephen Baker, Vaccines, End My Suffering]
 comments: true; 
 ---
 
-A video came up in my suggested feed while browsing YouTube today titled "Stop Worrying About Measles!!!", by "Dr." Baker. "Dr." Baker is not a real doctor, but chiropractor who has come up in the Z-Pack Tribe Talk Facebook groups many times for his antivaccination videos. There has been measles outbreak in Clark County, Oregon and there have been 36 confirmed cases. However Stephen Baker seems to believe measles isn't a very big deal, his video opens with Mr. Baker asking: "
+A video came up in my suggested feed while browsing YouTube today titled "[Stop Worrying About Measles!!!](https://www.youtube.com/watch?v=hxIOw6G2rJ8&t=212s)", by "Dr." Baker. "Dr." Baker is not a real doctor, but chiropractor who has come up in the Z-Pack Tribe Talk Facebook groups many times for his antivaccination videos. There has been measles outbreak in Clark County, Oregon and there have been 36 confirmed cases. However Stephen Baker seems to believe measles isn't a very big deal, his video opens with Mr. Baker asking: "
 
 > Why are you freaking out about measles?!" Measles is ultimately a fever and a rash. 
 
