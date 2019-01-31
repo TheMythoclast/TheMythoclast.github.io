@@ -28,6 +28,7 @@ Are you serious right now? What the fuck? Measles can be deadly, it is highly fu
 Now, vaccines sell for a very low amount of money. According to Bourree Lam's article in the *The Atlantic*: "The current CDC pediatric-contract price for MMR is $19.91, while the private-sector pediatric price for MMR has risen to $59.91.". For those of you who don't work in healthcare or have never looked at your insurance payouts, that is NOTHING when it comes to pharmaceutical prices. Your doctor's office would bill you more than 19.91 if the physician assistant came into the room, sneezed on you, and asked you politely, yet firmly, to leave. Pediatricians don't make money from vaccines either, some even take a loss by administering vaccines, and [pediatricians on average receive the lowest amount of money from drug companies](http://www.philly.com/philly/blogs/healthy_kids/The-truth-Why-pediatricians-promote-vaccines.html). They really just want to prevent your kid from getting potentially deadly and completely preventable diseases, and maybe someday pay off their med school debt and lease that honda civic they always wanted. Who am I kidding? A pediatrician could never afford to lease a new car! /s
 
 
+
 **Let's Talk Numbers** 
 
 > They're gonna try to scare you with numbers. Oh one in a thousand kids dies from measles. Have you done the math and figured out what the percentage is? Your odds are pretty good. 
@@ -39,7 +40,7 @@ I'm not great at math however my computer tells me that .1 is still higher than 
 Seriously? Once again, .15% is still a chance your child could die a completely preventable death. For reference 20,360 children died in 2016. If measles was as endemic as it was in 1963 and resulted in death at the same rate, measles would account for the deaths of nearly 7,000 children. Measles would be the leading cause of death of children in the U.S, [exceeding deaths from motor vehicle crashes by nearly 2,000](https://www.advisory.com/daily-briefing/2018/12/21/child-death). But don't worry it's just a rash and a fever. 
 
 
-**Victim Blaming** 
+##Victim Blaming 
 
 > Let's talk about who dies from measles. It's not a healthy child. It's not a healthy adult. It's probably somebody who went to a hospital, a disgusting place full of disease. That spreads more disease than ever. Remember the #3 leading cause of death is you ending up in a hospital. Don't do that. So the people that die of measles are not healthy people. Let's be real clear on that. My definition of health is someone who heals and functions at a high level. Not someone who just doesn't have symptoms. These people who are dying of measles, they're going to the hospital, they already have some other infection, they're probably full of drugs, they've probably been given antibiotics, they probably have zero immune system thanks to their pediatrician, and they're probably sick with some other issue. They get measles, they go to the hospital, mistakes happen, and they die. 
 
@@ -60,7 +61,7 @@ This claim is utter nonsense. The study he's referencing is utter nonsense and [
 
 
 
-**Vaccines Work**
+##Vaccines Work
 
 > Here's ultimately what they're trying to do. They're trying to get you to go get vaccinated. 
 
@@ -84,7 +85,7 @@ The MMR vaccine does not cause autism. Period. So what does he suggest you do?
 
 
 
-**Conclusion: Delete Your Account For The Kids**
+##Conclusion: Delete Your Account For The Kids
 
 Stephen Baker is by far the most smug chiropractor I have ever come across. He has no idea what the fuck he's talking about and his health advice is as dubious and dangerous as it comes. What does he think we should do in regards to measles and vaccinating our children?
 
