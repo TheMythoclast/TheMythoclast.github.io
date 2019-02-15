@@ -1,0 +1,19 @@
+---
+title: Why Trials Isn't Coming Back
+subtitle: and that's okay
+
+---
+
+Bungie announced in the most recent TWAB that Trials of the Nine would not be returning any time soon and they don't have any plans to bring it back in the future. This has upset a good portion of people in the community, particularly on YouTube and Reddit. Now I'm going to admit I have a bit of a bias, I've never liked any iteration of Destiny crucible. While I understand that people might really enjoy PvP and Trials, we have to look at the hard numbers to understand Bungie's has chosen not to work on new Trials. 
+
+## By the Numbers
+
+Bungie made their reasons pretty clear for needing to substantially rework trials: Trials in Destiny 2 was simply not engaging to players. 
+
+> With the introduction of Trials of the Nine in Destiny 2, we made a few changes to the formula which never really hit the same mark. We were unhappy with its role in the ecosystem. The new activity wasn’t achieving the goal of bringing the community together every weekend. Both Destiny and the online PvP scene have evolved since 2015, so we don’t believe that bringing back the 2015 version of Trials of Osiris would accomplish what our goals are today.
+
+Unfortunately it's pretty hard to get good stats on this. The best I've found was a thread on reddit looking at the number of unique guardians who played at least one match of trials, and how many matches were played over the course of the event. The numbers aren't pretty. The average player played between around 1.7 games per event over the 30 week lifespan of Trials of the Nine in destiny 2. The highest degree of engagement was in the 26 week where the average player played 2 games. 
+
+
+
+That's terrible. 
