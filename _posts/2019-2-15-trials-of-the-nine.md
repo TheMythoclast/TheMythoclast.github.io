@@ -3,7 +3,7 @@ title: Why Trials Isn't Coming Back
 subtitle: and that's okay
 comments: true 
 image: /img/trials/nine.jpeg
-share-img: /img/trials/nine.jpeg
+share-img: http://www.mythoclast.me/img/trials/nine.jpeg
 
 ---
 
