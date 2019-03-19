@@ -4,6 +4,8 @@ title: A Review of Under Our Skin, A Cult Classic
 subtitle: Chronic Lyme disease is fake, don't @ me. 
 comments: true
 tags: [Lyme, cults, antibiotics] 
+image: /img/tick.jpg
+share-img: https://mythoclast.me/img/tick.jpg
 ---
 
 *Under Our Skin* is a documentary about Lyme disease, a tick-borne disease mostly relegated to the northeastern US. It released in 2008 and received mostly positive reviews from critics. Having watched the film, I don&#39;t really understand why. _Under Our Skin_ exists to sell viewers on unnecessary and dangerous long-term antibiotic therapies for Lyme disease, as well as the existence of chronic Lyme disease.
