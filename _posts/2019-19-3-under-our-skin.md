@@ -1,4 +1,12 @@
-_Under Our Skin_ is a documentary about Lyme disease, a tick-borne disease mostly relegated to the northeastern US. It released in 2008 and received mostly positive reviews from critics. Having watched the film, I don&#39;t really understand why. _Under Our Skin_ exists to sell viewers on unnecessary and dangerous long-term antibiotic therapies for Lyme disease, as well as the existence of chronic Lyme disease.
+---
+layout: post
+title: A Review of Under Our Skin, A Cult Classic
+subtitle: Chronic Lyme disease is fake, don't @ me. 
+comments: true
+tags: [Lyme, cults, antibiotics] 
+---
+
+*Under Our Skin* is a documentary about Lyme disease, a tick-borne disease mostly relegated to the northeastern US. It released in 2008 and received mostly positive reviews from critics. Having watched the film, I don&#39;t really understand why. _Under Our Skin_ exists to sell viewers on unnecessary and dangerous long-term antibiotic therapies for Lyme disease, as well as the existence of chronic Lyme disease.
 
 
 # Lyme Disease is Boring
@@ -17,15 +25,13 @@ Furthermore, the study didn&#39;t include people who were treated and never test
 
 Presence of a diagnostic code in the chart or a clinician diagnosis of an infectious condition does not necessarily signify a true infection (19). Possible reasons include rule-out diagnoses, codes for medical history but not incident infections, and overdiagnosis (incorrect diagnosis of LD when the patient has a different condition). Rule-out diagnoses and medical history codes most likely were reduced—but not completely eliminated—by including only outpatients treated with an antimicrobial drug recommended for LD.
 
-While it is entirely possible that these figures are reasonably accurate, it&#39;s also entirely possible they are overinflated to a significant degree. The problem with using these kinds of studies is that they can inflate or deflate the number of cases depending on how the exclusion criteria is constructed. While there may be significantly more cases of Lyme disease than are reported to the CDC, asserting that the actual number of cases is 12 times higher based on database studies isn&#39;t exactly accurate. Regardless, even if the actual number of Lyme cases in the US is around 300,000 per year; Lyme disease still isn&#39;t that common. The database study estimated that the occurrence of physician diagnosed Lyme disease was 106 cases per 100,000 people. While that number is significant, it&#39;s still not that high even using very generous math. I&#39;ll play the Lyme lottery over the leukemia lottery any day of the week.
-
-** **
+While it is entirely possible that these figures are reasonably accurate, it&#39;s also entirely possible they are overinflated to a significant degree. The problem with using these kinds of studies is that they can inflate or deflate the number of cases depending on how the exclusion criteria is constructed. While there may be significantly more cases of Lyme disease than are reported to the CDC, asserting that the actual number of cases is 12 times higher based on database studies isn&#39;t exactly accurate. Regardless, even if the actual number of Lyme cases in the US is around 300,000 per year; Lyme disease still isn't that common. The database study estimated that the occurrence of physician diagnosed Lyme disease was 106 cases per 100,000 people. While that number is significant, it's still not that high even using very generous math. I&#39;ll play the Lyme lottery over the leukemia lottery any day of the week.
 
 **Lyme Disease Is Not That Scary**
 
 Speaking of which, the filmmakers try to make Lyme disease seem like it&#39;s as debilitating and dangerous as leukemia. While the symptoms of Lyme disease can be pretty nasty, Lyme disease is still pretty tame compared the vast majority of horrific ailments you can possibly suffer from. Early symptoms of infection include: fever, chills, headache, fatigue, muscle and joint aches, and swollen lymph nodes. If left untreated, symptoms can get markedly worse but still very treatable. Lyme disease can be treated rather easily with oral antibiotics. In the majority of cases, symptoms will resolve quickly and the infection will be completely eradicated using a course of oral antibiotics.
 
-A very small number of patients may still experience minor symptoms following antibiotic treatment up to 6 months, however I am unable to a study in any credible journal that those symptoms will persist beyond that. A [study in](https://www.ncbi.nlm.nih.gov/pubmed/12897313)[_Pediatrics_](https://www.ncbi.nlm.nih.gov/pubmed/12897313) studied long-term neuropsychological outcomes of children who had facial palsy as a result of Lyme disease, and found that &quot;The neuropsychologic and health outcomes of children with facial nerve palsy attributable to Lyme disease 7 to 161 months earlier are comparable to those who did not have Lyme disease.&quot;. Another [study published in](https://jamanetwork.com/journals/jama/fullarticle/192358)[_JAMA_](https://jamanetwork.com/journals/jama/fullarticle/192358) also found that the frequency of symptoms following Lyme disease treatment occurred no more often than in the group that never had Lyme disease in the first place.
+A very small number of patients may still experience minor symptoms following antibiotic treatment up to 6 months, however I am unable to a study in any credible journal that those symptoms will persist beyond that. A [study in](https://www.ncbi.nlm.nih.gov/pubmed/12897313)[*Pediatrics*](https://www.ncbi.nlm.nih.gov/pubmed/12897313) studied long-term neuropsychological outcomes of children who had facial palsy as a result of Lyme disease, and found that &quot;The neuropsychologic and health outcomes of children with facial nerve palsy attributable to Lyme disease 7 to 161 months earlier are comparable to those who did not have Lyme disease.&quot;. Another [study published in](https://jamanetwork.com/journals/jama/fullarticle/192358)[_JAMA_](https://jamanetwork.com/journals/jama/fullarticle/192358) also found that the frequency of symptoms following Lyme disease treatment occurred no more often than in the group that never had Lyme disease in the first place.
 
 **Lyme Disease Doesn&#39;t Do That**
 
