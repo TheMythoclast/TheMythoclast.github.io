@@ -35,7 +35,7 @@ It will also be very easy for program directors to work with this system. All yo
 
 ## Low/No Risk
 
-I've specifically thought this proposal out to be as low risk and have as many outs as possible, to the point where the risks are basically zero. The two biggest risks are someone hacking the website, and a significant number of programs going unmatched. As for being hacked, the hopefully won't happen because I will use programming best practices, and nobody really has any motivation to hack the site. There's nothing really of value being stored in the database. 
+I've specifically thought this proposal out to be as low risk and have as many outs as possible, to the point where the risks are basically zero. The two biggest risks are someone hacking the website, and a significant number of programs going unmatched. As for being hacked, that hopefully won't happen. I'll use programming best practices, and nobody really has any motivation to hack the site. There's nothing really of value being stored in the database. 
 
 As for programs going unmatched, I don't see this as a big risk because we can communicate with applicants about what we're doing, we can easily identify programs that are at risk of going unmatched, and we have the tools to make whatever course corrections are necessary. We aren't changing anything significant about the match: you're still accepting and reviewing applications through ERAS, and sending your rank list to the NRMP. As a result, all of the data from the NRMP can be used to predict what the results will be. The number of applications you receive has no effect on the match rate, only the number of applicants you choose to rank. 
 
