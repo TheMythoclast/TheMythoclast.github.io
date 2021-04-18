@@ -2,7 +2,7 @@
 layout: post
 title: Fixing the Orthopaedic Surgery Match - A Proposal
 subtitle: It's not brain surgery. 
-image: /img/aoa.jpg
+image: /img/ortho.jpg
 tags: [The Match, Ortho, Program Directors, programming]
 comments: true
 ---
